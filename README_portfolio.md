@@ -11,7 +11,7 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
 - **Week 39 – Bases, opérateurs, structures**  
   [Notebook](notebooks/01_python_bases/week39_python_bases.ipynb)  
   ➡️ Types, opérateurs, structures de données, conditions et boucles.  
-  ✔️ Publication GitHub + exercices Dataquest/HackerRank
+  ✔️ Publication GitHub + exercices Dataquest/w3schools
 
 - **Week 40–41 – Pandas & Mini-projets**  
   [Notebook nettoyage Iris](notebooks/02_python_pandas/iris_cleaning.ipynb)  
