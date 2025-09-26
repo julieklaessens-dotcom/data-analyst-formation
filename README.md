@@ -2,7 +2,7 @@
 # 📊 Portfolio Data Analyst – Julie Klaessens
 
 Bienvenue dans mon dépôt GitHub !  
-Vous trouverez ici l’ensemble de mes **projets et notebooks** réalisés dans le cadre de ma formation en Data Analysis (sept–décembre 2025).  
+Vous trouverez ici l’ensemble de mes **projets et notebooks** réalisés dans le cadre de ma formation en Data Analysis (sept 2025 – janvier 2026).  
 Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec les livrables associés.
 
 ---
