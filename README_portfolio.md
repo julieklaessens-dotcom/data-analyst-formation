@@ -9,7 +9,7 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
 
 ## 🐍 Python
 - **Week 39 – Bases, opérateurs, structures**  
-  [Notebook](notebooks/01_python_bases/week39_python_bases.ipynb)  
+  [Notebook](notebooks/Notebook_Python_Bases_Template.ipynb)  
   ➡️ Types, opérateurs, structures de données, conditions et boucles.  
   ✔️ Publication GitHub + exercices Dataquest/w3schools
 
