@@ -13,6 +13,7 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dpF8flza8QV2BkAz6zn6ntr97k_9S7ld)
   
   ➡️ Types, opérateurs, structures de données, conditions et boucles.
+  
   ✔️ Publication GitHub + exercices Dataquest/w3schools
 
 - **Week 40 - Functions and intermediate Python for Data Science**
@@ -20,6 +21,7 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
   [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1daic4AY6ZGgRY_svBGsB9k_-2CNpfXAV)
   
   ➡️ Functions, Jupyter Notebook, Nettoyage et préparations des données, dates et heures.
+  
   ✔️ Publication GitHub + exercices Dataquest
   
 - **Week 41 – Pandas & Mini-projets**  
