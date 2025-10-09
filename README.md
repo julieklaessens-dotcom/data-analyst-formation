@@ -8,7 +8,7 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
 ---
 
 ## 🐍 Python
-- **Week 39 – Bases, opérateurs, structures**
+- **Week 1 – Bases, opérateurs, structures**
   [Notebook](/01_python/Notebook_Python_Bases_Week_39.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dpF8flza8QV2BkAz6zn6ntr97k_9S7ld)
   
@@ -16,7 +16,7 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
   
   ✔️ Publication GitHub + exercices Dataquest/w3schools
 
-- **Week 40 - Functions and intermediate Python for Data Science**
+- **Week 2 - Functions and intermediate Python for Data Science**
   [Notebook](/01_python/Notebook_Python_Functions_Week_40.ipynb)
   [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1daic4AY6ZGgRY_svBGsB9k_-2CNpfXAV)
   
@@ -24,7 +24,7 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
   
   ✔️ Publication GitHub + exercices Dataquest
   
-- **Week 41 – Pandas & Mini-projets**  
+- **Week 3 – Pandas & Mini-projets**  
   [Notebook nettoyage Iris](notebooks/01_python/iris_cleaning.ipynb)  
   [Projet Netflix](notebooks/03_mini_project/netflix_analysis.ipynb)  
   ➡️ Nettoyage, analyse exploratoire, visualisations simples.
@@ -32,11 +32,11 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
 ---
 
 ## 🗄️ SQL
-- **Week 42 – SQL Bases & Avancé**  
+- **Week 4 – SQL Bases & Avancé**  
   [Scripts SQL](sql/sql_chinook_airbnb.sql)  
   ➡️ Sélections, jointures, agrégations, sous-requêtes.  
 
-- **Week 43 – Projet SQL Airbnb**  
+- **Week 5 – Projet SQL Airbnb**  
   [Rapport PDF](projects/sql_airbnb/sql_airbnb_report.pdf)  
   ➡️ Storytelling + analyse des données Airbnb.
 
