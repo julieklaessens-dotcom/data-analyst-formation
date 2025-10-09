@@ -9,14 +9,21 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
 
 ## 🐍 Python
 - **Week 39 – Bases, opérateurs, structures**
-  [Notebook](/01_python_bases/Notebook_Python_Bases_Week_39.ipynb)
+  [Notebook](/01_pythonNotebook_Python_Bases_Week_39.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dpF8flza8QV2BkAz6zn6ntr97k_9S7ld)
   
-  ➡️ Types, opérateurs, structures de données, conditions et boucles.  
+  ➡️ Types, opérateurs, structures de données, conditions et boucles.
   ✔️ Publication GitHub + exercices Dataquest/w3schools
 
-- **Week 40–41 – Pandas & Mini-projets**  
-  [Notebook nettoyage Iris](notebooks/02_python_pandas/iris_cleaning.ipynb)  
+- **Week 40 - Functions and intermediate Python for Data Science**
+  [Notebook](/01_python/Notebook_Python_Bases_Week_40.ipynb)
+  [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1daic4AY6ZGgRY_svBGsB9k_-2CNpfXAV#scrollTo=UXexk4-UYu8g)
+  
+  ➡️ Functions, Jupyter Notebook, Nettoyage et préparations des données, dates et heures.
+  ✔️ Publication GitHub + exercices Dataquest
+  
+- **Week 41 – Pandas & Mini-projets**  
+  [Notebook nettoyage Iris](notebooks/01_python/iris_cleaning.ipynb)  
   [Projet Netflix](notebooks/03_mini_project/netflix_analysis.ipynb)  
   ➡️ Nettoyage, analyse exploratoire, visualisations simples.
 
