@@ -17,7 +17,7 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
 
 - **Week 40 - Functions and intermediate Python for Data Science**
   [Notebook](/01_python/Notebook_Python_Bases_Week_40.ipynb)
-  [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1daic4AY6ZGgRY_svBGsB9k_-2CNpfXAV#scrollTo=UXexk4-UYu8g)
+  [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1daic4AY6ZGgRY_svBGsB9k_-2CNpfXAV#scrollTo=6kCxCQRXERAA)
   
   ➡️ Functions, Jupyter Notebook, Nettoyage et préparations des données, dates et heures.
   ✔️ Publication GitHub + exercices Dataquest
