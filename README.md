@@ -9,7 +9,7 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
 
 ## 🐍 Python
 - **Week 1 – Bases, opérateurs, structures**
-  [Notebook](/01_python/Notebook_Python_Bases_Week_39.ipynb)
+  [Notebook](/01_Python/Notebook_Python_Bases_Week_1.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dpF8flza8QV2BkAz6zn6ntr97k_9S7ld)
   
   ➡️ Types, opérateurs, structures de données, conditions et boucles.
@@ -17,7 +17,7 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
   ✔️ Publication GitHub + exercices Dataquest/w3schools
 
 - **Week 2 - Functions and intermediate Python for Data Science**
-  [Notebook](/01_python/Notebook_Python_Functions_Week_40.ipynb)
+  [Notebook](/01_Python/Notebook_Python_Functions_Week_2.ipynb)
   [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1daic4AY6ZGgRY_svBGsB9k_-2CNpfXAV)
   
   ➡️ Functions, Jupyter Notebook, Nettoyage et préparations des données, dates et heures.
