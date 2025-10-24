@@ -24,8 +24,16 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
   
   ✔️ Publication GitHub + exercices Dataquest
   
-- **Week 3 – Pandas & Mini-projets**  
-  [Notebook nettoyage Iris](notebooks/01_python/iris_cleaning.ipynb)  
+- **Week 3 – Pandas**  
+  [Notebook](/01_Python/Notebook_Python_NumPy&Panda_Week_3.ipynb)  
+  [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-Oxg4HZfkdM_Z3byfB8WWif4jHJMFYLr)
+  
+  ➡️ Nettoyage, analyse exploratoire, visualisations simples.
+
+  ✔️ Publication GitHub + exercices Dataquest
+
+  - **Week 4 – Mini-projet**  
+  [Notebook](/01_Python/Notebook_Python_NumPy&Panda_Week_3.ipynb)  
   [Projet Netflix](notebooks/03_mini_project/netflix_analysis.ipynb)  
   ➡️ Nettoyage, analyse exploratoire, visualisations simples.
 
