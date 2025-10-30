@@ -42,17 +42,6 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
 
 ---
 
-## 🗄️ SQL
-- **Week 4 – SQL Bases & Avancé**  
-  [Scripts SQL](sql/sql_chinook_airbnb.sql)  
-  ➡️ Sélections, jointures, agrégations, sous-requêtes.  
-
-- **Week 5 – Projet SQL Airbnb**  
-  [Rapport PDF](projects/sql_airbnb/sql_airbnb_report.pdf)  
-  ➡️ Storytelling + analyse des données Airbnb.
-
----
-
 ## 📊 BI & Tableurs
 - **Excel avancé** : [Fichier Excel](excel/advanced_excel_worldbank.xlsx)  
 - **Power BI** : [Dashboard](powerbi/worldbank_dashboard.pbix)  
@@ -66,6 +55,17 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
 
 - **Week 45 bis – ML Intro (Airbnb)**  
   [Notebook ML](notebooks/ml/ml_airbnb.ipynb)  
+
+---
+
+## 🗄️ SQL
+- **Week ... – SQL Bases & Avancé**  
+  [Scripts SQL](sql/sql_chinook_airbnb.sql)  
+  ➡️ Sélections, jointures, agrégations, sous-requêtes.  
+
+- **Week ... – Projet SQL Airbnb**  
+  [Rapport PDF](projects/sql_airbnb/sql_airbnb_report.pdf)  
+  ➡️ Storytelling + analyse des données Airbnb.
 
 ---
 
