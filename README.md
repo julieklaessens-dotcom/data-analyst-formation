@@ -35,7 +35,10 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
   - **Week 4 – Mini-projet**
   [Notebook](/01_Python/Notebook_Python_Project_Week_4.ipynb)
   [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P4e_dNjL8ohR6bJFy3nkDbUQVB2-vVlw#scrollTo=TcjtuHwX39pz)
+
   ➡️ Projet par soi-même.
+
+  ✔️ Publication GitHub + exercices Dataquest
 
 ---
 
