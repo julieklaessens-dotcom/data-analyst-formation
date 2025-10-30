@@ -33,9 +33,9 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
   ✔️ Publication GitHub + exercices Dataquest
 
   - **Week 4 – Mini-projet**  
-  [Notebook](/01_Python/Notebook_Python_NumPy&Panda_Week_3.ipynb)  
-  [Projet Netflix](notebooks/03_mini_project/netflix_analysis.ipynb)  
-  ➡️ Nettoyage, analyse exploratoire, visualisations simples.
+  [Notebook](/01_Python/Notebook_Python_Project_Week_4.ipynb)  
+  [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P4e_dNjL8ohR6bJFy3nkDbUQVB2-vVlw#scrollTo=TcjtuHwX39pz)
+  ➡️ Projet par soi-même.
 
 ---
 
