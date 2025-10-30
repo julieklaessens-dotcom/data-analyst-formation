@@ -18,7 +18,7 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
 
 - **Week 2 - Functions and intermediate Python for Data Science**
   [Notebook](/01_Python/Notebook_Python_Functions_Week_2.ipynb)
-  [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1daic4AY6ZGgRY_svBGsB9k_-2CNpfXAV)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1daic4AY6ZGgRY_svBGsB9k_-2CNpfXAV)
   
   ➡️ Functions, Jupyter Notebook, Nettoyage et préparations des données, dates et heures.
   
@@ -26,7 +26,7 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
   
 - **Week 3 – Pandas**
   [Notebook](/01_Python/Notebook_Python_NumPy&Panda_Week_3.ipynb)
-  [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-Oxg4HZfkdM_Z3byfB8WWif4jHJMFYLr)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-Oxg4HZfkdM_Z3byfB8WWif4jHJMFYLr)
   
   ➡️ Nettoyage, analyse exploratoire, visualisations simples.
 
@@ -34,7 +34,7 @@ Chaque dossier correspond à une compétence clé (Python, SQL, BI, etc.) avec l
 
 - **Week 4 – Mini-projet**
   [Notebook](/01_Python/Notebook_Python_Project_Week_4.ipynb)
-  [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P4e_dNjL8ohR6bJFy3nkDbUQVB2-vVlw#scrollTo=TcjtuHwX39pz)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P4e_dNjL8ohR6bJFy3nkDbUQVB2-vVlw#scrollTo=TcjtuHwX39pz)
 
   ➡️ Projet par soi-même.
 
